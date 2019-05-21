@@ -1,0 +1,12 @@
+.parent {
+   width: 240px; /* I took the width from your post and placed it in css */
+   height: 220px;
+}
+
+/* This will style any <img> element in .parent div */
+.parent img {
+   height: 100%;
+   width: 100%;
+}
+
+.masthead__menu_sticky ul{position: -webkit-sticky;position: sticky;margin:0;padding:0;clear:both;list-style-type:none}
